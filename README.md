@@ -1,6 +1,5 @@
 ### Olá! Eu sou Frederico Castilho 👋
-
-- 
+ 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
 - 😄 Pronomes: ele/dele
 
