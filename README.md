@@ -5,7 +5,7 @@
 
 
  <div>
-  <a href="https://www.linkedin.com/in/mario-frederico-leit%C3%A3o-de-castilho/">
+  <a href="https://www.linkedin.com/in/frederico-de-castilho/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericocastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericocastilho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
