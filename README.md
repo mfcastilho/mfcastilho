@@ -12,12 +12,14 @@
 
 </div>
 <div style="display: inline_block"><br>
- 
-  <img align="center" alt="Frederico-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Frederico-Java" height="42" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Frederico-Cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
- <img align="center" alt="Frederico-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- 
+ <img align="center" alt="Frederico-Java" height="42" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Frederico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Frederico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Frederico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Frederico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Frederico-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Frederico-Cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="right" alt="Frederico-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
   ##
