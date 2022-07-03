@@ -1,6 +1,6 @@
-### Olá! Eu sou Frederico Castilho 👋
+### Olá! Eu sou Mario Frederico Castilho 👋
  
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre)
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre) e Aluno no Programa ONE Oracle Next Education
 - 😄 Pronomes: ele/dele
 
 
