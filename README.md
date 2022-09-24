@@ -1,8 +1,8 @@
-### Olá! Eu sou Mario Frederico Castilho 👋
+### Hi! I'm Mario Frederico Castilh 👋
  
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas (5º semestre) | Aluno no curso Web Full Stack - Digital House | Aluno no Programa ONE Oracle Next Education - Alura
+- 🌱 Systems Analysis and Development Student (5th semester) | Student in the Full Stack Web course - Digital House | Student in the ONE Oracle Next Education Program - Alura
 
-- 😄 Pronomes: ele/dele
+- 😄 Pronouns: he/it
 
 
  <div>
