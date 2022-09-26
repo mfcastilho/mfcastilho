@@ -1,4 +1,4 @@
-### Hi! I'm Mario Frederico Castilho 👋
+### Hi! I'm Mario Frederico 👋
  
 - 🌱 Systems Analysis and Development Student (5th semester) | Student in the Full Stack Web course - Digital House | Student in the ONE Oracle Next Education Program - Alura
 
