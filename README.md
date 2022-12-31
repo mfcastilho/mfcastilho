@@ -1,6 +1,6 @@
 ### Hi! I'm Mario Frederico 👋
  
-- 🌱 Systems Analysis and Development Student (5th semester) | Student in the Full Stack Web course - Digital House 
+- 🌱 Graduated in Systems Analysis and Development | Student in the Full Stack Web course - Digital House 
 
 - 😄 Pronouns: he/it
 
