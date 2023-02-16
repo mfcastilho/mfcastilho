@@ -4,7 +4,9 @@
 
 - 😄 Pronouns: he/it
 
-<h4>'There are no absurd ideas for those who are thirsty for innovation and courage to open up to the new'</h4>
+<h4 style="margin-bottom: 10px">'There are no absurd ideas for those who are thirsty for innovation and courage to open up to the new'</h4>
+<h4 style="margin-bottom: 10px">'Success is not a port, it's a journey'</h4>
+
 
 <hr>
 <br>
