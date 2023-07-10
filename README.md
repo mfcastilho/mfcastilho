@@ -1,6 +1,5 @@
 ### Hi! I'm Mario Frederico 👋
 
- 
 - 🌱 Full Stack Developer | Graduated in Systems Analysis and Development  
 - 😄 Pronouns: he/it
 
