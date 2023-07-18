@@ -11,7 +11,7 @@
   <img height="180em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=mfcastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mfcastilho&layout=compact&langs_count=112&theme=dracula"/>
    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfcastilho)](https://git.io/streak-stats)
+
  
   
 </div>
