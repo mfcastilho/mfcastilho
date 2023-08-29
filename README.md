@@ -10,33 +10,49 @@
 ### [Urbano T-Shirt](https://github.com/mfcastilho/Projeto-Integrador-Digital-House)
 Este projeto, chama-se: Urbano T-Shirt. Foi desenvolvido em JavaScript ES6 Vanilla, HTML 5, CSS, Node.js, Express, Banco de dados (SQL), EJS, foi desenvolvido como projeto integrador do curso de desenvolvimento web fullstack da Digital House.
 
+<hr>
+
 ### [Portifólio](https://github.com/mfcastilho/portifolio)
 Este é o meu portfólio pessoal, criado como parte do Challenge ONE do programa One Oracle Next Education.
 
 Deploy: <a href="https://porfifoliodomariofrederico.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
+<hr>
+
 ### [Projeto Full Stack](https://github.com/mfcastilho/desafio-tecnico-fullstack)
 Aplicação web construído com Node.js, Express, Sequelize e Postgres no Backend e React.js no Frontend.
+
+Deploy: <a href="https://update-product-price.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
 
 ### [API do Flamengo](https://github.com/mfcastilho/flamengoapi-cyclic)
 API construída com o objetivo de disponibilizar dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.
 
 Documentação: <a href="https://flamengo-api.cyclic.app/v1/api-docs/m" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
+<hr>
+
 ### [Find Movies](https://github.com/mfcastilho/findMovie)
 Biblioteca de filmes que puxa todo os dados de forma dinâmica atráves da API pública da TMDB. Listando os melhores filmes baseado em suas notas, com campo de busca e pesquisa.
 
 Deploy: <a href="https://finding-movies.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
 
 ### [Jogo da Memória de Dinossauros](https://github.com/mfcastilho/dinosaur-memory-game)
 Este é um jogo da memória de dinossauros desenvolvido em JavaScript, Node.js e Express, usando HTML e CSS para a interface. O objetivo do jogo é encontrar todas as cartas correspondentes de dinossauros e foi criado com a intenção de entreter meu filhinho de 3 anos, que é fascinado por dinossauros.
 
 Deploy: <a href="https://dinosaur-memory-game.onrender.com/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
+<hr>
+
 ### [Rest Country API](https://github.com/mfcastilho/restCountryAPI)
 Solução criada a partir do desafio REST Countries API do site Frontend Mentor.
 
 Deploy: <a href="https://findyourcountryinfos.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
 
 ### [Desafio-Sistema-Bancario](https://github.com/mfcastilho/Desafio-Sistema-Bancario)
 Algoritmo que simula operações de transferências bancárias e executa autenticação, desenvolvido como parte da solução de desafio técnico. 
