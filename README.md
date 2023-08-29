@@ -7,6 +7,13 @@
 
 ## Projetos Principais
 
+### [API do Flamengo](https://github.com/mfcastilho/flamengoapi-cyclic)
+API construída com o objetivo de disponibilizar dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.
+
+Documentação: <a href="https://flamengo-api.cyclic.app/v1/api-docs/m" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
+
 ### [Urbano T-Shirt](https://github.com/mfcastilho/Projeto-Integrador-Digital-House)
 Este projeto, chama-se: Urbano T-Shirt. Foi desenvolvido em JavaScript ES6 Vanilla, HTML 5, CSS, Node.js, Express, Banco de dados (SQL), EJS, foi desenvolvido como projeto integrador do curso de desenvolvimento web fullstack da Digital House.
 
@@ -23,13 +30,6 @@ Deploy: <a href="https://porfifoliodomariofrederico.netlify.app/" target="_blank
 Aplicação web construído com Node.js, Express, Sequelize e Postgres no Backend e React.js no Frontend.
 
 Deploy: <a href="https://update-product-price.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
-
-<hr>
-
-### [API do Flamengo](https://github.com/mfcastilho/flamengoapi-cyclic)
-API construída com o objetivo de disponibilizar dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.
-
-Documentação: <a href="https://flamengo-api.cyclic.app/v1/api-docs/m" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
 <hr>
 
