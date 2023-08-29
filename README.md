@@ -11,7 +11,9 @@
 Este projeto, chama-se: Urbano T-Shirt. Foi desenvolvido em JavaScript ES6 Vanilla, HTML 5, CSS, Node.js, Express, Banco de dados (SQL), EJS, foi desenvolvido como projeto integrador do curso de desenvolvimento web fullstack da Digital House.
 
 ### [Portifólio](https://github.com/mfcastilho/portifolio)
-Este é o meu portfólio pessoal, criado como parte do Challenge ONE do programa One Oracle Next Education..
+Este é o meu portfólio pessoal, criado como parte do Challenge ONE do programa One Oracle Next Education.
+
+Deploy: <a href="https://porfifoliodomariofrederico.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
 ### [Projeto Full Stack](https://github.com/mfcastilho/desafio-tecnico-fullstack)
 Aplicação web construído com Node.js, Express, Sequelize e Postgres no Backend e React.js no Frontend.
