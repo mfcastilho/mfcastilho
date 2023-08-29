@@ -34,28 +34,28 @@ Deploy: <a href="https://update-product-price.netlify.app/" target="_blank" rel=
 <hr>
 
 ### [Find Movies](https://github.com/mfcastilho/findMovie)
-Biblioteca de filmes que puxa todo os dados de forma dinâmica atráves da API pública da TMDB. Listando os melhores filmes baseado em suas notas, com campo de busca e pesquisa.
+Biblioteca de filmes que puxa todo os dados de forma dinâmica atráves da API pública da TMDB. Listando os melhores filmes baseado em suas notas, com campo de busca e pesquisa. O projeto foi desenvolvido com React e TypeSCript.
 
 Deploy: <a href="https://finding-movies.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
 <hr>
 
 ### [Jogo da Memória de Dinossauros](https://github.com/mfcastilho/dinosaur-memory-game)
-Este é um jogo da memória de dinossauros desenvolvido em JavaScript, Node.js e Express, usando HTML e CSS para a interface. O objetivo do jogo é encontrar todas as cartas correspondentes de dinossauros e foi criado com a intenção de entreter meu filhinho de 3 anos, que é fascinado por dinossauros.
+Este é um jogo da memória de dinossauros desenvolvido em JavaScript, Node.js e Express, usando HTML e CSS para a interface. O objetivo do jogo é encontrar todas as cartas correspondentes de dinossauros e foi criado com a intenção de entreter meu filhinho de 3 anos, que é fascinado por dinossauros. O projeto foi desenvolvido com JavaSCript, HTML e CSS.
 
 Deploy: <a href="https://dinosaur-memory-game.onrender.com/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
 <hr>
 
 ### [Rest Country API](https://github.com/mfcastilho/restCountryAPI)
-Solução criada a partir do desafio REST Countries API do site Frontend Mentor.
+Solução criada a partir do desafio REST Countries API do site Frontend Mentor. O projeto foi desenvolvido com  React e JavaSCript.
 
 Deploy: <a href="https://findyourcountryinfos.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
 <hr>
 
 ### [Desafio-Sistema-Bancario](https://github.com/mfcastilho/Desafio-Sistema-Bancario)
-Algoritmo que simula operações de transferências bancárias e executa autenticação, desenvolvido como parte da solução de desafio técnico. 
+Algoritmo que simula operações de transferências bancárias e executa autenticação, desenvolvido como parte da solução de desafio técnico.  O projeto foi desenvolvido no Backend com Java, Spring Boot e o banco de dados de teste H2 e no Frontend com React e Bootstrap.
 
 <hr>
 <br>
