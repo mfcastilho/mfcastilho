@@ -20,7 +20,7 @@ Este projeto, chama-se: Urbano T-Shirt. Foi desenvolvido em JavaScript ES6 Vanil
 <hr>
 
 ### [Portifólio](https://github.com/mfcastilho/portifolio)
-Este é o meu portfólio pessoal, criado como parte do Challenge ONE do programa One Oracle Next Education.
+Este é o meu portfólio pessoal, criado como parte do Challenge ONE do programa One Oracle Next Education. O projeto foi desenvolvido com React, TypeScript, Framer Motion e CSS.
 
 Deploy: <a href="https://porfifoliodomariofrederico.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
