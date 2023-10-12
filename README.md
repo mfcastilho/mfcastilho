@@ -71,7 +71,7 @@ Algoritmo que simula operações de transferências bancárias e executa autenti
  
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,java,bootstrap,css,html,mysql,react,vue,py,spring,git,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,java,postgres,mysql,react,bootstrap,css,html,vue,py,spring,git,figma&theme=light)](https://skillicons.dev)
   ##
  
 <div> 
