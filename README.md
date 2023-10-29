@@ -26,7 +26,7 @@ Deploy: <a href="https://porfifoliodomariofrederico.netlify.app/" target="_blank
 
 <hr>
 
-### [Projeto Full Stack](https://github.com/mfcastilho/desafio-tecnico-fullstack)
+### [Sistema de atualização de Preços](https://github.com/mfcastilho/desafio-tecnico-fullstack)
 Aplicação web construído com Node.js, Express, Sequelize e Postgres no Backend e React.js no Frontend.
 
 Deploy: <a href="https://update-product-price.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
