@@ -19,6 +19,17 @@ Este projeto, chama-se: Urbano T-Shirt. Foi desenvolvido em JavaScript ES6 Vanil
 
 <hr>
 
+### [Sistema-de-Reservas-de-Restaurante](https://github.com/mfcastilho/sistema-de-reservas-de-restaurante)
+Aplicação web fullstack desenvolvido como solução para desafio técnico. Algoritmo 
+oferece uma solução eficiente para a gestão de reservas de mesas em restaurantes. 
+Utilizando um conjunto de tecnologias modernas, o sistema proporciona 
+funcionalidades para clientes e administradores. Foram utilizadas as tecnologias no 
+backend: NodeJs, JavaScript, Express, JWT e PostgreSQL e no frontend: React, 
+Axios e React Router Dom. Os teste unitários e de integração foram conduzidos 
+utilizando o Jest.
+
+<hr>
+
 ### [Portifólio](https://github.com/mfcastilho/portifolio)
 Este é o meu portfólio pessoal, criado como parte do Challenge ONE do programa One Oracle Next Education. O projeto foi desenvolvido com React, TypeScript, Framer Motion e CSS.
 
