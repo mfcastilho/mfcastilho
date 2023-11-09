@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/it
 <h4 style="margin-bottom: 10px">"There are no absurd ideas for those who are thirsty for innovation and courage to open up to the new"</h4>
 
-## Projetos Principais
+## Alguns Projetos 
 
 ### [API do Flamengo](https://github.com/mfcastilho/flamengoapi-cyclic)
 API construída com o objetivo de disponibilizar dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.  O projeto foi desenvolvido com NodeJs, Express, Sequelize e o banco de dados Postgres(ElephantSQL).
