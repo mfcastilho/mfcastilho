@@ -82,7 +82,8 @@ Algoritmo que simula operações de transferências bancárias e executa autenti
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mfcastilho)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mfcastilho&theme=gruvbox&hide_border=true&background=561F1F&border=9D3838)](https://git.io/streak-stats)
 
 <br>
 
