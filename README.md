@@ -21,6 +21,14 @@ A API do Sistema PVD (Ponto de Venda) foi construída com o objetivo de facilita
 
 <hr>
 
+
+### [Dindin API](https://github.com/mfcastilho/dindin-api)
+A Dindin API é um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 do curso de Desenvolvimento de Software com foco em Backend da Cubos Academy.  O projeto foi desenvolvido com NodeJs, Express, PostgreSQL, JWT, express-asyn-errors, Bcrypt, dotenv.
+
+Documentação: <a href="https://mfcastilho.github.io/dindin-api-documentacao/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
+
 ### [Urbano T-Shirt](https://github.com/mfcastilho/Projeto-Integrador-Digital-House)
 Este projeto, chama-se: Urbano T-Shirt. Foi desenvolvido em JavaScript ES6 Vanilla, HTML 5, CSS, Node.js, Express, Banco de dados (SQL), EJS, foi desenvolvido como projeto integrador do curso de desenvolvimento web fullstack da Digital House.
 
