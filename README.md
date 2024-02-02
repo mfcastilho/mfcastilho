@@ -16,7 +16,7 @@ Documentação: <a href="https://flamengo-api.cyclic.app/v1/api-docs/m" target="
 
 
 ### [Sistema PDV - Backend API](https://github.com/mfcastilho/sistema-pdv-cubos)
-A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilitar a gestão de um sistema de ponto de venda, oferecendo operações para gerenciar categorias, clientes, pedidos, produtos e usuários. Ela proporciona uma interface RESTful para interação, utilizando tecnologias como Node.js, Express, TypeScript, Prisma, JWT, Bcrypt, Joi, SendGrid (para envio de email de confirmação do pedido), Multer, AWS-SDK, Armazenamento em nuvem das imagens dos produtos(Backblaze), entre outras.
+A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilitar a gestão de um sistema de ponto de venda, oferecendo operações para gerenciar categorias, clientes, pedidos, produtos e usuários. Ela proporciona uma interface RESTful para interação, utilizando tecnologias como Node.js, Express, TypeScript, Prisma, JWT, Bcrypt, Joi, SendGrid (para envio de email de confirmação do pedido), Template Engine EJS, Multer, AWS-SDK, Armazenamento em nuvem das imagens dos produtos(Backblaze), entre outras.
 
 
 <hr>
