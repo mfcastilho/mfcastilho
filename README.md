@@ -102,10 +102,6 @@ Algoritmo que simula operações de transferências bancárias e executa autenti
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfcastilho)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,sequelize,java,postgres,mysql,react,bootstrap,css,html,vue,py,spring,git,figma&theme=light)](https://skillicons.dev)
   ##
