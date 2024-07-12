@@ -86,13 +86,9 @@ Algoritmo que simula operações de transferências bancárias e executa autenti
 <hr>
 <br>
  <div>
-  <a href="https://github.com/mfcastilho/">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=mfcastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mfcastilho&layout=compact&langs_count=112&theme=dracula"/>
-   
 
- 
-  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfcastilho&size_weight=0.5&count_weight=0.5)
+
 </div>
 
 <br>
