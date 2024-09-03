@@ -21,7 +21,6 @@ A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilita
 
 <hr>
 
-<hr>
 
 ### [Miami Landing Page](https://github.com/mfcastilho/layout_landing-page)
 Landing page desenvolvida para uma loja de eletrônicos.
