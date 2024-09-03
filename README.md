@@ -29,6 +29,8 @@ Deploy: <a href="https://react-phone-catalog-3qel.onrender.com/" target="_blank"
 Repositório backend: <a href="https://github.com/br-fs-feb24-starktech/api_phone-catalog" target="_blank" rel="noopener noreferrer">clique aqui</a>
 <br>
 Repositório frontend: <a href="https://github.com/br-fs-feb24-starktech/react_phone-catalog" target="_blank" rel="noopener noreferrer">clique aqui</a>
+<br>
+OBSERVAÇÃO: O Deploy foi feito usando a versão gratuita do render, que hiberna depois de 15 minutos de inatividade, por isso, se acaso demorar para abrir é devido a isso. 
 
 <hr>
 
