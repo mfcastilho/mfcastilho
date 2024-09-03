@@ -31,7 +31,7 @@ Repositório backend: <a href="https://github.com/br-fs-feb24-starktech/api_phon
 Repositório frontend: <a href="https://github.com/br-fs-feb24-starktech/react_phone-catalog" target="_blank" rel="noopener noreferrer">clique aqui</a>
 <br>
 <br>
-OBSERVAÇÃO: Por favor, note que o deploy foi realizado usando a versão gratuita do Render. O servidor pode hibernar após 15 minutos de inatividade, resultando em um tempo maior de resposta ao acessar o link. 
+OBSERVAÇÃO: Por favor, observe que o deploy foi realizado na versão gratuita do Render, o que pode fazer com que o servidor entre em hibernação após 15 minutos de inatividade, causando um tempo de resposta maior ao acessar o link.
 
 <hr>
 
