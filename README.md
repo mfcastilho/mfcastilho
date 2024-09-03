@@ -22,7 +22,7 @@ A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilita
 <hr>
 
 ### [React Phone Catalog (Frontend and Backend)](https://github.com/br-fs-feb24-starktech)
-Sistema Full Stack desenvolvido em equipe durante o curso na Mate Academy. Fui responsável pelo desenvolvimento do Header, Card, Banner e Página de produtos no frontend e no backend pela CRUD de produtos, Cadastro e login de usuários e pelos middlewares de validações da API.
+Este é um sistema Full Stack desenvolvido em equipe durante o curso na Mate Academy. Minhas principais contribuições foram no desenvolvimento do Header, Card, Banner e Página de produtos no frontend. No backend, fui responsável pela implementação das operações CRUD de produtos, pelo sistema de cadastro e login de usuários, além dos middlewares de validação da API.
 
 Deploy: <a href="https://react-phone-catalog-3qel.onrender.com/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 <br>
@@ -30,7 +30,8 @@ Repositório backend: <a href="https://github.com/br-fs-feb24-starktech/api_phon
 <br>
 Repositório frontend: <a href="https://github.com/br-fs-feb24-starktech/react_phone-catalog" target="_blank" rel="noopener noreferrer">clique aqui</a>
 <br>
-OBSERVAÇÃO: O Deploy foi feito usando a versão gratuita do render, que hiberna depois de 15 minutos de inatividade, por isso, se acaso demorar para abrir é devido a isso. 
+<br>
+OBSERVAÇÃO: Por favor, note que o deploy foi realizado usando a versão gratuita do Render. O servidor pode hibernar após 15 minutos de inatividade, resultando em um tempo maior de resposta ao acessar o link. 
 
 <hr>
 
