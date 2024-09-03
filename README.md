@@ -21,6 +21,15 @@ A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilita
 
 <hr>
 
+<hr>
+
+### [Miami Landing Page](https://github.com/mfcastilho/layout_landing-page)
+Landing page desenvolvida para uma loja de eletrônicos.
+
+Deploy: <a href="https://mfcastilho.github.io/layout_landing-page/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
+
 
 ### [Dindin API](https://github.com/mfcastilho/dindin-api)
 A Dindin API é um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 do curso de Desenvolvimento de Software com foco em Backend da Cubos Academy.  O projeto foi desenvolvido com NodeJs, Express, PostgreSQL, JWT, express-asyn-errors, Bcrypt, dotenv.
