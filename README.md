@@ -21,6 +21,15 @@ A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilita
 
 <hr>
 
+### [Miami Landing Page](https://github.com/mfcastilho/layout_landing-page)
+Sistema Full Stack desenvolvido em equipe durante o curso na Mate Academy. Fui responsável pelo desenvolvimento do Geader, Card, Banner, Página de produtos no frontend e no backend pela CRUD de produtos, Cadastro e login de usuários e pelos middlewares de validações da API.
+
+Deploy: <a href="https://react-phone-catalog-3qel.onrender.com/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+Repositório backend: <a href="https://github.com/br-fs-feb24-starktech/api_phone-catalog" target="_blank" rel="noopener noreferrer">clique aqui</a>
+Repositório frontend: <a href="https://github.com/br-fs-feb24-starktech/react_phone-catalog" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
+
 
 ### [Miami Landing Page](https://github.com/mfcastilho/layout_landing-page)
 Landing page desenvolvida para uma loja de eletrônicos. O projeto utilizou as tecnologias HTML e Sass.
