@@ -23,7 +23,7 @@ A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilita
 
 
 ### [Miami Landing Page](https://github.com/mfcastilho/layout_landing-page)
-Landing page desenvolvida para uma loja de eletrônicos.
+Landing page desenvolvida para uma loja de eletrônicos. O projeto utilizou as tecnologias HTML e Sass.
 
 Deploy: <a href="https://mfcastilho.github.io/layout_landing-page/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
