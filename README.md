@@ -22,7 +22,7 @@ A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilita
 <hr>
 
 ### [React Phone Catalog (Frontend and Backend)](https://github.com/br-fs-feb24-starktech)
-Este é um sistema Full Stack desenvolvido em equipe durante o curso na Mate Academy. Minhas principais contribuições foram no desenvolvimento do Header, Card, Banner e Página de produtos no frontend. No backend, fui responsável pela implementação das operações CRUD de produtos, pelo sistema de cadastro e login de usuários, além dos middlewares de validação da API.
+Este é um sistema Full Stack desenvolvido em equipe durante o curso na Mate Academy. O projeto foi desenvolvido com as tecnologias, React, TypeScript, React Router Dom, Axios e React Toastfy no Frontend e Express.Js, JavaScript, Sequelize ORM, PostgreSQL, Json web token, Bcrypt e Express Async Error no Backend.  Minhas principais contribuições foram no desenvolvimento do Header, Card, Banner e Página de produtos no frontend. No backend, fui responsável pela implementação das operações CRUD de produtos, pelo sistema de cadastro e login de usuários, além dos middlewares de validação da API.
 
 Deploy: <a href="https://react-phone-catalog-3qel.onrender.com/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 <br>
