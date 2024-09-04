@@ -89,7 +89,7 @@ Deploy: <a href="https://finding-movies.netlify.app/" target="_blank" rel="noope
 <hr>
 
 ### [Jogo da Memória de Dinossauros](https://github.com/mfcastilho/dinosaur-memory-game)
-Este é um jogo da memória de dinossauros desenvolvido em JavaScript, Node.js e Express, usando HTML e CSS para a interface. O objetivo do jogo é encontrar todas as cartas correspondentes de dinossauros e foi criado com a intenção de entreter meu filhinho de 3 anos, que é fascinado por dinossauros. O projeto foi desenvolvido com JavaSCript, HTML e CSS.
+Este é um jogo da memória de dinossauros desenvolvido em JavaScript, Node.js e Express, usando HTML e CSS para a interface. O objetivo do jogo é encontrar todas as cartas correspondentes de dinossauros e foi criado com a intenção de entreter meu filhinho de 3 anos, que é fascinado por dinossauros. O projeto foi desenvolvido com JavaScript, HTML e CSS.
 
 Deploy: <a href="https://dinosaur-memory-game.onrender.com/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
