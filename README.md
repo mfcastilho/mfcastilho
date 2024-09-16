@@ -7,7 +7,7 @@
 
 ## Some projects
 
-### [API do Flamengo](https://github.com/mfcastilho/flamengoapi-cyclic)
+### [API do Flamengo](https://github.com/mfcastilho/API-do-Flamengo)
 API construída com o objetivo de disponibilizar dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.  O projeto foi desenvolvido com NodeJs, Express, Sequelize e o banco de dados Postgres(ElephantSQL).
 
 Documentação: <a href="https://flamengo-api.onrender.com/v1/api-docs" target="_blank" rel="noopener noreferrer">clique aqui</a>
