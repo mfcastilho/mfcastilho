@@ -38,7 +38,7 @@ OBSERVAÇÃO: Por favor, observe que o deploy foi realizado na versão gratuita 
 ### [Site Coletivo Cafeína](https://github.com/mfcastilho/site_coletivo_cafeina)
 Landing page desenvolvida para o Coletivo Cafeína. O projeto utilizou as tecnologias React, TypeScript, Sass e Bootstrap (react-bootstrap para o carrosel de banners). O desenvolvimento seguiu a metodologia BEM para organização do CSS, utilizando mixins para facilitar a responsividade. O design foi construído com a abordagem mobile first, garantindo uma experiência fluida em todos os dispositivos.
 
-Deploy: <a href="https://coletivocafeina.netlify.app/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+Deploy: <a href="https://coletivocafeina.com.br/" target="_blank" rel="noopener noreferrer">clique aqui</a>
 
 <hr>
 
