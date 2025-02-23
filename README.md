@@ -14,6 +14,13 @@ Documentação: <a href="https://flamengo-api.onrender.com/v1/api-docs" target="
 
 <hr>
 
+### [Site Coletivo Cafeína](https://github.com/mfcastilho/site_coletivo_cafeina)
+Landing page desenvolvida para o Coletivo Cafeína. O projeto utilizou as tecnologias React, TypeScript, Sass e Bootstrap (react-bootstrap para o carrosel de banners). O desenvolvimento seguiu a metodologia BEM para organização do CSS, utilizando mixins para facilitar a responsividade. O design foi construído com a abordagem mobile first, garantindo uma experiência fluida em todos os dispositivos.
+
+Deploy: <a href="https://coletivocafeina.com.br/" target="_blank" rel="noopener noreferrer">clique aqui</a>
+
+<hr>
+
 
 ### [Sistema PDV - Backend API](https://github.com/mfcastilho/sistema-pdv-cubos)
 A API do Sistema PDV (Ponto de Venda) foi construída com o objetivo de facilitar a gestão de um sistema de ponto de venda, oferecendo operações para gerenciar categorias, clientes, pedidos, produtos e usuários. Ela proporciona uma interface RESTful para interação, utilizando tecnologias como Node.js, Express, TypeScript, Prisma, JWT, Bcrypt, Joi, SendGrid (para envio de email de confirmação do pedido), Template Engine EJS, Multer, AWS-SDK, Armazenamento em nuvem das imagens dos produtos(Backblaze), entre outras.
@@ -35,12 +42,6 @@ OBSERVAÇÃO: Por favor, observe que o deploy foi realizado na versão gratuita 
 
 <hr>
 
-### [Site Coletivo Cafeína](https://github.com/mfcastilho/site_coletivo_cafeina)
-Landing page desenvolvida para o Coletivo Cafeína. O projeto utilizou as tecnologias React, TypeScript, Sass e Bootstrap (react-bootstrap para o carrosel de banners). O desenvolvimento seguiu a metodologia BEM para organização do CSS, utilizando mixins para facilitar a responsividade. O design foi construído com a abordagem mobile first, garantindo uma experiência fluida em todos os dispositivos.
-
-Deploy: <a href="https://coletivocafeina.com.br/" target="_blank" rel="noopener noreferrer">clique aqui</a>
-
-<hr>
 
 ### [Miami Landing Page](https://github.com/mfcastilho/layout_landing-page)
 Landing page desenvolvida para uma loja de eletrônicos. O projeto utilizou as tecnologias HTML e Sass.
